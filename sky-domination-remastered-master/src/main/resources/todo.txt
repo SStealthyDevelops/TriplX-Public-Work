@@ -1,0 +1,4 @@
+Credit + shop system
+Scoreboard + tab
+Player name (team color) on top of player head
+

@@ -1,0 +1,7 @@
+name: MG_SkyDomination
+main: minigames.triplxmc.skydomination.Core
+version: 1.0.0
+
+commands:
+  game:
+    description: Manage the game

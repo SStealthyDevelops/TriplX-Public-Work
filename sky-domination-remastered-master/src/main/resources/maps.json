@@ -1,0 +1,48 @@
+{
+  "maps": [
+    {
+      "name": "Skyworld",
+      "world": "world",
+      "spawnpoints_team_1": [
+        "1 100 1",
+        "2 100 2"
+      ],
+      "spawnpoints_team_2": [
+        "10 100 1",
+        "12 100 2"
+      ],
+      "lobby-spawn": "0 0 0",
+      "border": {
+        "x": "100 100",
+        "y": "0 200",
+        "z": "100 100"
+      },
+      "rules": {
+        "unbreakable-blocks": [
+          "GRASS",
+          "STONE",
+          "DIRT"
+        ]
+      },
+      "bases": [
+        {
+          "location-1": "20 20 20",
+          "location-2": "25 20 25"
+        },
+        {
+          "location-1": "50 20 50",
+          "location-2": "55 20 55"
+        }
+      ],
+      "team-shop-locs": [
+        "50 20 50",
+        "100 20 50"
+      ],
+      "personal-shop-locs": [
+        "51 20 50",
+        "101 20 50"
+      ]
+    }
+
+  ]
+}

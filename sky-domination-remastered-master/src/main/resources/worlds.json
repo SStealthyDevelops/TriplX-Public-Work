@@ -1,0 +1,19 @@
+{
+
+  "worlds": [
+
+    {
+      "directory" : "SkyWorld",
+      "name": "Sky World",
+      "player-limit": -1
+    },
+    {
+      "directory" : "world",
+      "name": "Backup",
+      "player-limit": -1
+    }
+
+
+  ]
+
+}

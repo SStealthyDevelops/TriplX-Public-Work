@@ -1,0 +1,10 @@
+package minigames.triplxmc.skydomination.utils;
+
+public class Base64Strings {
+
+    public static String overkillHead = "ewogICJ0aW1lc3RhbXAiIDogMTU5OTQwOTk5NDE1NCwKICAicHJvZmlsZUlkIiA6ICJhYTZhNDA5NjU4YTk0MDIwYmU3OGQwN2JkMzVlNTg5MyIsCiAgInByb2ZpbGVOYW1lIiA6ICJiejE0IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzc4NzVmMTJmMTIzNThkMDVkNDIyMWU5ZTQ2YzM1Y2RlMDY0ZGUyMWJlZjkyOTNmZDRlNTExNjg5ZGM4NTY2MzIiCiAgICB9CiAgfQp9";
+
+    public static String vectorHead = "";
+
+}
+

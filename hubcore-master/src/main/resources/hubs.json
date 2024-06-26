@@ -1,0 +1,12 @@
+{
+  "hubs" : [
+    {
+      "world": "world",
+      "max-players": 20,
+      "type": "MAIN"
+    },
+    {
+
+    }
+  ]
+}

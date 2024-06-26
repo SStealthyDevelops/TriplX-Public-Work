@@ -1,0 +1,27 @@
+# Consult to HubCore GitLab Wiki
+debug-mode: false
+
+store-link: "store.triplxmc.net"
+forums-link: "triplxmc.net"
+
+commands:
+  game-hub-switch: "/hub %game%"
+
+server-manager:
+  collection: "main-hub"
+  name: "hub-1"
+  bungee-name: "Lobby"
+
+scoreboard:
+  interval: 10
+
+  title:
+    - "1"
+    - "2"
+
+npcs:
+  - "&c&lTRIPLX"
+
+messages:
+
+  welcome: "&aWelcome to &cTRIPLX&a! We are a small group of people putting out a lot of content for Minecraft players to enjoy, such as MINI-GAMES like Sky Domination to Classics like Factions guaranteeing the best possible experience."

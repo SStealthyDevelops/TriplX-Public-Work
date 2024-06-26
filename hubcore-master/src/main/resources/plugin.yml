@@ -1,0 +1,14 @@
+name: TRIPLX_HUBCORE
+version: 1.0.0 PRODUCTION
+main: triplx.hub.core.Hubcore
+
+
+commands:
+  hubcore:
+    description: Manage the hub - administrators only.
+  fly:
+    description: Toggle flight
+  chaos:
+    description: Allows admins to take control and have fun.
+  switchhub:
+    description: Switch to a different hub in the same gamemode.

@@ -1,0 +1,13 @@
+enabled: true
+
+#
+lobby-command: '/hub skydomination'
+
+# Server name in MongoDB
+server-name: "MG_1"
+
+# Server name in BungeeCord
+server-bungee: "Server1"
+
+personal-shop-name: "&a&lPersonal Shop"
+team-shop-name: "&b&lTeam Shop"
